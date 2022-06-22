@@ -1,0 +1,17 @@
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\AluraTunes.mdf
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\AluraTunes_log.ldf
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\DataSQL\AluraTunes.mdf
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\DataSQL\AluraTunes_log.ldf
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\AluraTunesCerto.exe.config
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\AluraTunesCerto.exe
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\AluraTunesCerto.pdb
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\EntityFramework.dll
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\EntityFramework.xml
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.csproj.AssemblyReference.cache
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.csproj.SuggestedBindingRedirects.cache
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.csproj.CoreCompileInputs.cache
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.csproj.CopyComplete
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.exe
+C:\Users\envio\source\repos\Alura\LojaDB\AluraTunesCerto\obj\Debug\AluraTunesCerto.pdb
