@@ -20,8 +20,18 @@ namespace AluraTunesCerto
 			//UsandoCount();
 			//UsandoSum();
 			//UsandoGroupBy();
-			UsandoMinMaxAvg();
+			//UsandoMinMaxAvg();
+			UsandoMedianaComMetodoDeExtensao();
 			Console.ReadKey();
+		}
+
+		private static void UsandoMedianaComMetodoDeExtensao()
+		{
+			using (var contexto = new AluraTunesEntities())
+			{
+				var mediana = contexto.NotaFiscals.Mediana(nf => nf.Total);
+				Console.WriteLine(mediana);
+			}
 		}
 
 		private static void UsandoMinMaxAvg()

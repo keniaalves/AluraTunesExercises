@@ -113,6 +113,7 @@
       <DependentUpon>AluraTunes.tt</DependentUpon>
     </Compile>
     <Compile Include="Genero.cs" />
+    <Compile Include="LinqExtension.cs" />
     <Compile Include="Musica.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
