@@ -67,6 +67,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CursoQueriesParte1.cs" />
+    <Compile Include="CursoQueriesParte2.cs" />
     <Compile Include="DataSQL\Album.cs">
       <DependentUpon>AluraTunes.tt</DependentUpon>
     </Compile>
